@@ -1,4 +1,4 @@
-# ⭐ Olá! ⭐
+# ✲ ✳ ✴ ✵ ✶ ✷ ✸ ✹ ✺ Olá! ✲ ✳ ✴ ✵ ✶ ✷ ✸ ✹ ✺
 
 <p align="left">
   <b>Bióloga & Analista de Dados Ambientais</b> | <i>Residente em IA (PUC-Rio / ECOA)</i>
