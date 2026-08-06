@@ -1,20 +1,19 @@
-# ✲ ✳ ✴ ✵ ✶ ✷ ✸ ✹ ✺ Olá! ✲ ✳ ✴ ✵ ✶ ✷ ✸ ✹ ✺
+# ✰ Hello, Stranger! ✰
 
 <p align="left">
-  <b>Bióloga & Analista de Dados Ambientais</b> | <i>Residente em IA (PUC-Rio / ECOA)</i>
+ <b>Bióloga & Analista de Dados Ambientais</b> ∬ <i>Residente em IA (PUC-Rio / ECOA)</i>
 </p>
 
 ---
 
-### 🤖 Quem sou eu ? 
-- 🌿 **Atuação:** Aplicação de geoprocessamento, análise espacial e ciência de dados voltadas para meio ambiente, biodiversidade e risco ambiental.
-- 🎓 **Formação:** Graduação em Ciências Biológicas (UERJ) e em especialização na **Residência em Dados com IA (PUC-Rio / ECOA)**.
-- 💡 **Foco Atual:** Storytelling com dados, pipelines de automação em Python e modelos analíticos aplicados a projetos socioambientais.
+                                             ◎ Quem sou eu ? ◎
+- ↳ **Atuação:** Aplicação de geoprocessamento, análise espacial e ciência de dados voltadas para meio ambiente, biodiversidade e risco ambiental.
+- ✎ **Formação:** Graduação em Ciências Biológicas (UERJ) e em especialização na **Residência em Dados com IA (PUC-Rio / ECOA)**.
+- ↳ **Foco Atual:** Storytelling com dados, pipelines de automação em Python e modelos analíticos aplicados a projetos socioambientais.
 
 ---
 
-### 💻 Tecnologias & Ferramentas
-
+### Tecnologias & Ferramentas 
 <p align="left">
   <!-- Linguagens e Analytics -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -32,7 +31,7 @@
 
 ---
 
-### 📓 Repositórios & Projetos em Destaque
+### Repositórios & Projetos em Destaque
 
 - 🎓 **[dataia](./dataia):** Jornada de aprendizado e projetos desenvolvidos na Residência em Dados com IA (PUC-Rio/ECOA).
 - 🌊 **[analiseinunda-o_rj](./analiseinunda-o_rj):** Mapeamento e modelagem espacial de suscetibilidade a inundações no RJ.
@@ -40,7 +39,7 @@
 
 ---
 
-### ✉️ Vamos nos conectar?
+### ☏ Vamos nos conectar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vitoria-b-b-de-carvalho/">
