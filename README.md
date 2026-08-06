@@ -1,4 +1,4 @@
-# 🌿 Olá! Sou a Vitória B. B. de Carvalho 🌿
+# ⭐ Olá! Sou a Vitória B. B. de Carvalho ⭐
 
 <p align="left">
   <b>Bióloga & Analista de Dados Ambientais</b> | <i>Residente em IA (PUC-Rio / ECOA)</i>
@@ -6,14 +6,14 @@
 
 ---
 
-### 🚀 Sobre Mim
-- 🔬 **Atuação:** Aplicação de geoprocessamento, análise espacial e ciência de dados voltadas para meio ambiente, biodiversidade e risco ambiental.
+### 🤖 Quem sou eu ? 
+- 🌿 **Atuação:** Aplicação de geoprocessamento, análise espacial e ciência de dados voltadas para meio ambiente, biodiversidade e risco ambiental.
 - 🎓 **Formação:** Graduação em Ciências Biológicas (UERJ) e em especialização na **Residência em Dados com IA (PUC-Rio / ECOA)**.
 - 💡 **Foco Atual:** Storytelling com dados, pipelines de automação em Python e modelos analíticos aplicados a projetos socioambientais.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 💻 Tecnologias & Ferramentas
 
 <p align="left">
   <!-- Linguagens e Analytics -->
@@ -32,15 +32,15 @@
 
 ---
 
-### 📌 Repositórios & Projetos em Destaque
+### 📓 Repositórios & Projetos em Destaque
 
 - 🎓 **[dataia](./dataia):** Jornada de aprendizado e projetos desenvolvidos na Residência em Dados com IA (PUC-Rio/ECOA).
 - 🌊 **[analiseinunda-o_rj](./analiseinunda-o_rj):** Mapeamento e modelagem espacial de suscetibilidade a inundações no RJ.
-- 🌿 **[spatial-analysis-aquatic-biodiversity-RJ](./spatial-analysis-aquatic-biodiversity-RJ):** Análise integrada de qualidade da água e biodiversidade aquática no estado do Rio de Janeiro.
+- 🌍 **[spatial-analysis-aquatic-biodiversity-RJ](./spatial-analysis-aquatic-biodiversity-RJ):** Análise integrada de qualidade da água e biodiversidade aquática no estado do Rio de Janeiro.
 
 ---
 
-### 📫 Vamos nos conectar?
+### ✉️ Vamos nos conectar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vitoria-b-b-de-carvalho/">
