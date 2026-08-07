@@ -31,7 +31,7 @@
 
 ---
 
-### Repositórios & Projetos em Destaque
+### Repositórios & Projetos em Destaque ⤵
 
 - 🎓 **[dataia](https://github.com/Vitoriabbc1/dataia/tree/main):** Jornada de aprendizado e projetos desenvolvidos na Residência em Dados com IA (PUC-Rio/ECOA).
 - 🌊 **[analiseinunda-o_rj](https://github.com/Vitoriabbc1/analiseinunda-o_rj):** Mapeamento e modelagem espacial de suscetibilidade a inundações no RJ.
