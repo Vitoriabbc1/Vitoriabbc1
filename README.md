@@ -6,7 +6,7 @@
 
 ---
 
-                                             ◎ Quem sou eu ? ◎
+◎ Quem sou eu ? ◎
 - ↳ **Atuação:** Aplicação de geoprocessamento, análise espacial e ciência de dados voltadas para meio ambiente, biodiversidade e risco ambiental.
 - ✎ **Formação:** Graduação em Ciências Biológicas (UERJ) e em especialização na **Residência em Dados com IA (PUC-Rio / ECOA)**.
 - ↳ **Foco Atual:** Storytelling com dados, pipelines de automação em Python e modelos analíticos aplicados a projetos socioambientais.
