@@ -36,7 +36,7 @@
 - 🎓 **[dataia](https://github.com/Vitoriabbc1/dataia/tree/main):** Jornada de aprendizado e projetos desenvolvidos na Residência em Dados com IA (PUC-Rio/ECOA).
 - 🌊 **[analiseinunda-o_rj](https://github.com/Vitoriabbc1/analiseinunda-o_rj):** Mapeamento e modelagem espacial de suscetibilidade a inundações no RJ.
 - 🌍 **[spatial-analysis-aquatic-biodiversity-RJ](https://github.com/Vitoriabbc1/spatial-analysis-aquatic-biodiversity-RJ):** Análise integrada de qualidade da água e biodiversidade aquática no estado do Rio de Janeiro.
-
+- 🏞️ **[areas_contaminadas](https://github.com/Vitoriabbc1/areas_contaminadas):** Diagnóstico geoespacial de vulnerabilidade ambiental em Unidades de Conservaçãoo 
 ---
 
 ### ☏ Vamos nos conectar?
